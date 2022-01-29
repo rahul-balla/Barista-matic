@@ -1,0 +1,11 @@
+#header-background {
+	background-color: black;
+	margin-bottom: 1%;
+}
+
+#header-text {
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+	padding-bottom: 10px;
+}

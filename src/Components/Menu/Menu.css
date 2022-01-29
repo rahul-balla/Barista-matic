@@ -1,0 +1,25 @@
+.decrease-space {
+	width: 70%;
+	left: 50%;
+	position: relative;
+	transform: translateX(-50%);
+}
+
+.menu-font {
+	font-size: 14px;
+}
+
+.center-text {
+	text-align: center;
+	cursor: pointer;
+}
+
+.disabled-div {
+	pointer-events: none;
+	opacity: 0.4;
+}
+
+.picture-width {
+	width: 145;
+	height: 100;
+}

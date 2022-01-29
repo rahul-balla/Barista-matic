@@ -1,0 +1,15 @@
+#restock-btn-style {
+	margin-top: 1%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#spinner-location {
+	position: relative;
+	left: 50%;
+	top: 50%;
+	transform: translateY(-50%, -50%);
+	margin-bottom: 20%;
+	margin-top: 15%;
+}
