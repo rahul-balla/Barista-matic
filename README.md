@@ -16,9 +16,7 @@ Here are the steps that need to be performed to setup the environment for the pr
 
 <ol>
   <li>Clone the repository<br />
-    ```
-
-      git clone https://github.com/rahul-balla/Barista-matic.git
+    `git clone https://github.com/rahul-balla/Barista-matic.git`
 
   </li>
 </ol>
