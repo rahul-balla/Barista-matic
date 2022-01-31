@@ -27,3 +27,7 @@ git clone https://github.com/rahul-balla/Barista-matic.git
 
 npm install
 ```
+
+## Running the application
+
+Type `npm run start` to run the application locally
