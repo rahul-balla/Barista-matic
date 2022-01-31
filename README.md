@@ -2,7 +2,7 @@
 
 This is a simple React application where the the user can dispense beverages of his/her choice. <br />
 
-<img src="./public/images/readmeImage.png" alt="Logo" width="80" height="80">
+<img src="./public/images/readmeImage.png" alt="Logo" >
 
 It has been built with the following technologies:
 
