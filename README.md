@@ -1,3 +1,11 @@
 # Barista-matic Application
 
-This is a simple React application where the the user can dispense beverages of his/her choice
+This is a simple React application where the the user can dispense beverages of his/her choice. <br />
+It has been built with the following technologies:
+
+<ul>
+  <li>React.js</li>
+  <li>React-bootstrap</li>
+  <li>Redux</li>
+  <li>Cypress</li>
+</ul>
