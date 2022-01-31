@@ -1,6 +1,6 @@
 # Barista-matic Application
 
-This is a simple React application where the the user can dispense beverages of his/her choice. <br />
+This is a simple React application which simulates an automatic coffee dispensing machine. The left side of the application contains the beverages available for the user to select whereas the right side maintains the inventory of drink ingredients <br />
 
 <img src="./public/images/readmeImage.png" alt="Logo" >
 
