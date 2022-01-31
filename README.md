@@ -14,14 +14,16 @@ It has been built with the following technologies:
 
 Here are the steps that need to be performed to setup the environment for the project: <br />
 
+1. Clone the repository
+
 ```sh
 
 git clone https://github.com/rahul-balla/Barista-matic.git
 ```
 
-<ol>
- <li>Clone the repository</li>
- ```sh
-git clone https://github.com/rahul-balla/Barista-matic.git
+2. Install npm packages
+
+```sh
+
+npm install
 ```
-</ol>
