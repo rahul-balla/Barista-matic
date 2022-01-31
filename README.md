@@ -30,4 +30,20 @@ npm install
 
 ## Running the application
 
-Type `npm run start` to run the application locally
+1. Starting application in dev mode
+
+```sh
+
+npm run start
+```
+
+2. Starting production ready environment
+
+```sh
+
+npm build
+```
+
+## Testing the application
+
+Run the command `yarn run cypress open` to run the tests for the application. This will open another window where you can view the tests performed in detail.
