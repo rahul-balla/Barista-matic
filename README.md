@@ -20,10 +20,8 @@ git clone https://github.com/rahul-balla/Barista-matic.git
 ```
 
 <ol>
- <li>Clone the repository
-  ```sh
+ <li>Clone the repository</li>
+ ```sh
 git clone https://github.com/rahul-balla/Barista-matic.git
 ```
-
-</li>
 </ol>
