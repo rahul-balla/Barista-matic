@@ -14,18 +14,16 @@ It has been built with the following technologies:
 
 Here are the steps that need to be performed to setup the environment for the project: <br />
 
-````sh
+```sh
 
 git clone https://github.com/rahul-balla/Barista-matic.git
 ```
 
 <ol>
  <li>Clone the repository
-   ```sh
+  ```sh
+git clone https://github.com/rahul-balla/Barista-matic.git
+```
 
-   git clone https://github.com/rahul-balla/Barista-matic.git
-   ```
-
- </li>
+</li>
 </ol>
-````
